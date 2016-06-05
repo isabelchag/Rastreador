@@ -18,4 +18,17 @@
         android:textOff="@string/button__start_tracking"
         android:layout_gravity="bottom|right"
         android:checked="false"></ToggleButton>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/mLatitudeText"
+        android:layout_gravity="center_horizontal|top" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/mLongitudeText"
+        android:layout_gravity="center_horizontal|top" />
 </FrameLayout>
