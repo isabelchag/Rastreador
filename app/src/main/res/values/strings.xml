@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">Routetracker</string>
-    <string name="title_activity_maps">Route Tracker</string>
+    <string name="app_name">Trugo App</string>
+    <string name="title_activity_maps">Trugo</string>
     <string name="button__start_tracking">Start tracking</string>
     <string name="button__stop_tracking">Stop tracking</string>
+    <string name="title_activity_error">Problemas :(</string>
 </resources>
